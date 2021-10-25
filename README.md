@@ -13,3 +13,8 @@ nothing more than bits,
 but I have a lot to offer,
 
 for I have notes on coding in my midst!
+
+## Table of Contents
+
+- [Week 1](/Week_1)
+  - [Day 1](/Week_1/Day_1)
